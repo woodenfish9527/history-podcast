@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>課本沒說完的故事</title>
+    <link>https://woodenfish9527.github.io/history-podcast/</link>
+    <atom:link href="https://woodenfish9527.github.io/history-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>zh-Hant</language>
+    <description>用說故事的方式，陪國小高年級到國中的你聽懂歷史。本節目從選題、寫稿到配音皆由 AI 製作，內容依據史料整理。</description>
+    <itunes:author>翻頁人（AI 說書人）</itunes:author>
+    <itunes:image href="https://woodenfish9527.github.io/history-podcast/cover.jpg"/>
+    <itunes:category text="Kids &amp; Family"><itunes:category text="Education for Kids"/></itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <copyright>© 2026 課本沒說完的故事</copyright>
+    <item>
+      <title>第2集｜一個當了四十幾年的班長：從解嚴到第一次總統直選</title>
+      <description>你們班的班長，一學期選一次。可是台灣曾經有一群國會代表，一選就做了四十幾年。解嚴之後，報紙變厚了、政黨可以備案了，最大的那扇門卻還卡著。一九九〇年春天，一群大學生坐到廣場上；一九九六年，在對岸試射飛彈的緊張氣氛中，大家第一次自己投票選總統。這一集，翻頁人和六年級的小書籤，一起把課本翻過去的那一頁翻回來。
+
+對應課程：國小社會「臺灣的民主發展」（108 課綱 Cd-Ⅲ-1、Cd-Ⅲ-2）
+
+本節目從選題、寫稿到配音、音效，皆由 AI 製作（文稿經另一個 AI 交叉查核）；說書人翻頁人與小書籤都是 AI 配音的虛構角色。內容依據公開史料整理，如果聽到錯誤，歡迎告訴我們。
+
+主要參考資料：
+・中央社〈台灣人生活從黑白變彩色 一切從解嚴令開始〉https://www.cna.com.tw/news/aipl/201707145011.aspx
+・內政部〈政黨法制〉https://www.moi.gov.tw/cp.aspx?n=695
+・司法院 釋字第31號 https://cons.judicial.gov.tw/docdata.aspx?fid=100&amp;id=310212
+・司法院 釋字第261號 https://cons.judicial.gov.tw/docdata.aspx?fid=100&amp;id=310442
+・中央社〈李登輝總統宣告終止動員戡亂時期〉https://www.cna.com.tw/news/ahel/202304275005.aspx
+・立法院〈民主國會卅年特展〉https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=5255&amp;pid=226769
+・總統府〈修正中華民國憲法增修條文〉（1994）https://www.president.gov.tw/Page/294/40712
+・中央選舉委員會（1996 總統副總統選舉）https://web.cec.gov.tw/english/article/21785
+
+配音：ElevenLabs AI 語音；音效：ElevenLabs 生成。</description>
+      <guid isPermaLink="false">31514fc2-7054-4dbb-909a-7dd2b298d0e8</guid>
+      <pubDate>Thu, 05 Nov 2026 16:50:00 +0800</pubDate>
+      <enclosure url="https://woodenfish9527.github.io/history-podcast/audio/2026-11-05_first-vote.mp3" length="11054227" type="audio/mpeg"/>
+      <itunes:duration>00:11:31</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>第1集｜三十八年的緊急狀態：戒嚴</title>
+      <description>一九八七年七月十四日深夜，時鐘走過十二點，台灣持續了三十八年的戒嚴結束了。戒嚴是什麼？那時候的人怎麼過日子？為什麼翻譯一則《大力水手》漫畫，會讓作家柏楊失去自由九年多？這一集，翻頁人帶你把課本翻過去的那一頁翻回來。
+
+對應課程：國小社會「臺灣的民主發展」（108 課綱 Cd-Ⅲ-1）
+
+本節目從選題、寫稿到配音、音效，皆由 AI 製作（文稿經另一個 AI 交叉查核），內容依據公開史料整理。如果聽到錯誤，歡迎告訴我們。
+
+主要參考資料：
+・國家發展委員會檔案管理局 檔案支援教學網〈民主運動與憲政改革〉https://art.archives.gov.tw/tw/art/1491.html
+・國家發展委員會檔案管理局 檔案支援教學網〈戒嚴時期之相關管制辦法－郵件檢查〉https://art.archives.gov.tw/tw/art/1530-13399.html
+・國家發展委員會檔案管理局 檔案支援教學網〈電視臺的出現〉https://art.archives.gov.tw/tw/art/1130.html
+・國家人權博物館 國家人權記憶庫〈白色恐怖〉https://memory.nhrm.gov.tw/NormalNode/Detail/83?MenuNode=14
+・中央社〈解嚴30年 台灣從威權邁向自由民主〉https://www.cna.com.tw/news/aipl/201707140387.aspx
+・Taipei Times（柏楊事件）https://www.taipeitimes.com/News/feat/archives/2017/09/24/2003679025
+
+配音：ElevenLabs AI 語音；音效：ElevenLabs 生成。</description>
+      <guid isPermaLink="false">5a7c596f-a73f-4acf-8202-cd3e9eb8772f</guid>
+      <pubDate>Thu, 05 Nov 2026 14:30:00 +0800</pubDate>
+      <enclosure url="https://woodenfish9527.github.io/history-podcast/audio/2026-11-05_martial-law.mp3" length="8617525" type="audio/mpeg"/>
+      <itunes:duration>00:08:59</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
