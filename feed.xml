@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>課本沒說完的故事</title>
+    <link>https://woodenfish9527.github.io/history-podcast/</link>
+    <atom:link href="https://woodenfish9527.github.io/history-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>zh-Hant</language>
+    <description>用說故事的方式，陪國小高年級到國中的你聽懂歷史。本節目從選題、寫稿到配音皆由 AI 製作，內容依據史料整理。</description>
+    <itunes:author>翻頁人（AI 說書人）</itunes:author>
+    <itunes:image href="https://woodenfish9527.github.io/history-podcast/cover.jpg"/>
+    <itunes:category text="Kids &amp; Family"><itunes:category text="Education for Kids"/></itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <copyright>© 2026 課本沒說完的故事</copyright>
+    <item>
+      <title>第7集｜李登輝⑤ 意外的總統</title>
+      <description>一九九〇年三月二十一日，一群大學生走進總統府。等他們的人，這一天才剛被投票選為總統——而選他的，正是學生要求下台的那些老代表。夾在中間的他，會站在哪一邊？
+
+李登輝系列第五集（1988–1991）：當了總統，為什麼還要當黨主席？提名的時候，為什麼吵「起立還是投票」？老代表為什麼四十幾年不用改選，這跟「動員戡亂」有什麼關係？他是總統，為什麼不能直接叫老代表下台？小書籤一個一個問。這一集她也有自己的麻煩：班長轉學了，她變成代理班長，有人說「可是我們又沒有選你」。
+
+對應課程：國小高年級社會、國中歷史「戰後臺灣」的民主化（108 課綱 Cd-Ⅲ-1、Cd-Ⅲ-2、歷Fa-Ⅳ-1）
+
+本節目從選題、寫稿到配音、音效，皆由 AI 製作（文稿經另一個 AI 交叉查核）；說書人翻頁人與小書籤都是 AI 配音的虛構角色。內容依據公開史料整理，引用他本人與他人的說法時都註明是回憶。如果聽到錯誤，歡迎告訴我們。
+
+主要參考資料：
+・中研院〈野百合學運〉特展 https://ios20.ascdc.tw/e2_wildlily/
+・司法院〈釋字第261號〉https://cons.judicial.gov.tw/docdata.aspx?fid=100&amp;id=310442
+・總統府〈憲法簡介〉動員戡亂時期臨時條款的施行及廢止 https://www.president.gov.tw/Page/93
+完整參考資料：https://woodenfish9527.github.io/history-podcast/sources/2026-11-14_lth-05-accidental-president.html
+
+配音：ElevenLabs AI 語音；音效：ElevenLabs 生成。</description>
+      <guid isPermaLink="false">2804f3a7-6312-4d4f-8b81-30a933c9b50f</guid>
+      <pubDate>Sat, 14 Nov 2026 12:16:00 +0800</pubDate>
+      <enclosure url="https://woodenfish9527.github.io/history-podcast/audio/2026-11-14_lth-05-accidental-president.mp3" length="17721094" type="audio/mpeg"/>
+      <itunes:duration>00:18:27</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>第6集｜李登輝④ 從教授到副總統</title>
+      <description>一張合照：在他自己家的客廳裡，他坐得好端正，椅子只坐了前面一點點。來的客人，是總統蔣經國。不到四年後，這個人會坐上全台灣最大的那張椅子。為什麼是他？
+
+李登輝系列第四集（1972–1988）：四張椅子，沒有一張是人民直接投票給他的——政務委員（終於取消肥料換穀）、台北市長（翡翠水庫開工、公園裡的《天鵝湖》）、台灣省主席（大湖的草莓田、「八萬農業建設大軍」不是軍隊）、副總統。中間，他失去了唯一的兒子。這一集小書籤心情很差：老師沒有投票，直接指定她當副班長。
+
+對應課程：國小高年級社會、國中歷史「戰後臺灣」的政治與經濟（108 課綱 Cd-Ⅲ-1、Cd-Ⅲ-2、歷Fa-Ⅳ-1、歷Fb-Ⅳ-1）
+
+本節目從選題、寫稿到配音、音效，皆由 AI 製作（文稿經另一個 AI 交叉查核）；說書人翻頁人與小書籤都是 AI 配音的虛構角色。內容依據公開史料整理，引用他本人與他人的說法時都註明是回憶。如果聽到錯誤，歡迎告訴我們。
+
+主要參考資料：
+・國史館〈李登輝總統大事日記年表暨僚屬故舊訪談〉https://presidentiallth.drnh.gov.tw/index.php?act=Archive%2Frelevant
+・總統府〈第7～9任 李總統登輝先生〉https://www.president.gov.tw/Page/86
+・林果顯〈民主化前夕的都市治理：以李登輝任臺北市長為中心〉（國史館）https://presidentiallth.drnh.gov.tw/article.php?access=PATA00092/61bd1fb2
+完整參考資料：https://woodenfish9527.github.io/history-podcast/sources/2026-11-14_lth-04-vice-president.html
+
+配音：ElevenLabs AI 語音；音效：ElevenLabs 生成。</description>
+      <guid isPermaLink="false">9494714d-fd8b-4238-b96e-deb8f552d5b2</guid>
+      <pubDate>Sat, 14 Nov 2026 10:34:00 +0800</pubDate>
+      <enclosure url="https://woodenfish9527.github.io/history-podcast/audio/2026-11-14_lth-04-vice-president.mp3" length="16801166" type="audio/mpeg"/>
+      <itunes:duration>00:17:30</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>第5集｜李登輝③ 種田的博士</title>
+      <description>一個在美國煎牛排請客、外號「牛排李」的留學生，寫出一篇得獎的博士論文。可是就在那段時間，有一天，他穿著睡衣被帶走了。
+
+李登輝系列第三集（1949–1971）：小書籤要猜這集的四樣東西——騎去上班的腳踏車、牛排、一本書、一件睡衣。他幫農民算帳，追查「農民辛苦種田，錢都跑到哪裡去了」；用園遊券聽懂「肥料換穀」；他選擇回到台灣；一九六九年被警備總部約談，太太在家等了漫長的一天。最後快轉到九十五歲的他和「源興牛」，接回系列第一集的開場。
+
+對應課程：國中七年級下學期歷史「戰後臺灣的經濟」（土地改革、以農業培養工業）、國小六年級社會「戰後經濟發展」（108 課綱 歷Fb-Ⅳ-1、Ce-Ⅲ-1、Cb-Ⅲ-1）
+
+本節目從選題、寫稿到配音、音效，皆由 AI 製作（文稿經另一個 AI 交叉查核）；說書人翻頁人與小書籤都是 AI 配音的虛構角色。內容依據公開史料整理，引用他本人與家人的說法時都註明是回憶。如果聽到錯誤，歡迎告訴我們。
+
+主要參考資料：
+・洪紹洋〈農業經濟學者李登輝與他的經濟幕僚〉（國史館）https://presidentiallth.drnh.gov.tw/article.php?access=PATA00101/f5cc876b
+・農業部〈物物交換達人〉（肥料換穀）https://kmweb.moa.gov.tw/theme_data.php?id=4&amp;theme=agri_story
+・農業部《源興牛新品種登記審定書》https://www.moa.gov.tw/redirect_files.php?id=53192
+完整參考資料：https://woodenfish9527.github.io/history-podcast/sources/2026-11-11_lth-03-farm-doctor.html
+
+配音：ElevenLabs AI 語音；音效：ElevenLabs 生成。</description>
+      <guid isPermaLink="false">b20ba97d-b455-422c-8106-a3c735fa82e0</guid>
+      <pubDate>Wed, 11 Nov 2026 13:36:00 +0800</pubDate>
+      <enclosure url="https://woodenfish9527.github.io/history-podcast/audio/2026-11-11_lth-03-farm-doctor.mp3" length="19550501" type="audio/mpeg"/>
+      <itunes:duration>00:20:22</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>第4集｜李登輝② 戰後的年輕人</title>
+      <description>他後來回憶，二二八那段時間，他把從日本帶回來的軍刀和軍服丟掉了。一個二十四歲的大學生，為什麼要丟掉自己的軍刀？
+
+李登輝系列第二集（1945–1949）：戰後回到台灣、進台大農經系；二二八事件期間他的經歷；在「普羅寮」讀書會加入、又離開一個左派組織——他自己的說法、朋友們的回憶、研究者的保留，像拼圖一樣並列，也講這件事後來在二〇〇四年選舉、二〇一三年綠島被追問的影響；最後是署名「山頂人」的情書，和借住在朋友家的新婚生活。小書籤把三個謎記在聯絡簿上，陪你一起解。
+
+對應課程：國中七年級下學期歷史「戰後臺灣的政治」（二二八事件）、國小高年級社會（108 課綱 歷Fa-Ⅳ-1、歷Fa-Ⅳ-2、Cb-Ⅲ-1、Cd-Ⅲ-1）
+
+本節目從選題、寫稿到配音、音效，皆由 AI 製作（文稿經另一個 AI 交叉查核）；說書人翻頁人與小書籤都是 AI 配音的虛構角色。內容依據公開史料整理，引用他本人的說法時都註明是回憶。如果聽到錯誤，歡迎告訴我們。
+
+主要參考資料：
+・李鎧揚〈從皇國少年到左翼青年：1940年代李登輝的轉向〉（國史館）https://presidentiallth.drnh.gov.tw/article.php?access=PATA00103%2F5a3fbdd8
+・任育德〈劉明修與《李登輝伝》的書寫史研究〉（國史館）https://presidentiallth.drnh.gov.tw/article.php?access=PATA00094%2F0e170959
+・二二八事件紀念基金會〈簡介〉https://www.228.org.tw/intro
+完整參考資料：https://woodenfish9527.github.io/history-podcast/sources/2026-11-09_lth-02-postwar.html
+
+配音：ElevenLabs AI 語音；音效：ElevenLabs 生成。</description>
+      <guid isPermaLink="false">93022222-602d-4dd8-8354-b8b62d7a37ac</guid>
+      <pubDate>Mon, 09 Nov 2026 23:17:00 +0800</pubDate>
+      <enclosure url="https://woodenfish9527.github.io/history-podcast/audio/2026-11-09_lth-02-postwar.mp3" length="22248010" type="audio/mpeg"/>
+      <itunes:duration>00:23:10</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>第3集｜李登輝① 三芝來的少年</title>
+      <description>二〇一八年，九十五歲的李登輝被扶著走進花蓮的牧場，那群牛叫「源興牛」，名字來自他三芝的老家「源興居」。從這一集開始，翻頁人和小書籤用七集，跟著李登輝走過他的一生，看他在每個時代做的選擇。
+
+第一集講他的少年時代（1923–1945）：警察的兒子、轉學四次、考試落榜又生病休學；在淡水中學借廁所的燈讀書；改名「岩里政男」的皇民化時代；為什麼選擇農業經濟；當日本兵，以及再也沒見面的哥哥。也講到兩件後來引起爭論的事——二〇〇七年到靖國神社祭拜哥哥、二〇一五年談自己年輕時的日本經驗——以及當時各方的不同看法。
+
+對應課程：國小高年級社會、國中七年級下學期歷史「日治時期」（108 課綱 歷Ea-Ⅳ-1、Cb-Ⅲ-1）
+
+本節目從選題、寫稿到配音、音效，皆由 AI 製作（文稿經另一個 AI 交叉查核）；說書人翻頁人與小書籤都是 AI 配音的虛構角色。內容依據公開史料整理，引用他本人的說法時都註明是回憶。如果聽到錯誤，歡迎告訴我們。
+
+主要參考資料：
+・總統府〈第7～9任 李總統登輝先生〉https://www.president.gov.tw/Page/86
+・李鎧揚〈從皇國少年到左翼青年：1940年代李登輝的轉向〉（國史館）https://presidentiallth.drnh.gov.tw/article.php?access=PATA00103%2F5a3fbdd8
+・國史館臺灣文獻館〈皇民化時期臺灣人改姓名的規定〉https://www.th.gov.tw/Epaper_Content/236/8621/
+完整參考資料：https://woodenfish9527.github.io/history-podcast/sources/2026-11-09_lth-01-boyhood.html
+
+配音：ElevenLabs AI 語音；音效：ElevenLabs 生成。</description>
+      <guid isPermaLink="false">8ad595fa-2062-4bd1-8b0b-52027d87bd54</guid>
+      <pubDate>Mon, 09 Nov 2026 16:19:00 +0800</pubDate>
+      <enclosure url="https://woodenfish9527.github.io/history-podcast/audio/2026-11-09_lth-01-boyhood.mp3" length="25055442" type="audio/mpeg"/>
+      <itunes:duration>00:26:06</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>第2集｜一個當了四十幾年的班長：從解嚴到第一次總統直選</title>
+      <description>你們班的班長，一學期選一次。可是台灣曾經有一群國會代表，一選就做了四十幾年。解嚴之後，報紙變厚了、政黨可以備案了，最大的那扇門卻還卡著。一九九〇年春天，一群大學生坐到廣場上；一九九六年，在對岸試射飛彈的緊張氣氛中，大家第一次自己投票選總統。這一集，翻頁人和六年級的小書籤，一起把課本翻過去的那一頁翻回來。
+
+對應課程：國小社會「臺灣的民主發展」（108 課綱 Cd-Ⅲ-1、Cd-Ⅲ-2）
+
+本節目從選題、寫稿到配音、音效，皆由 AI 製作（文稿經另一個 AI 交叉查核）；說書人翻頁人與小書籤都是 AI 配音的虛構角色。內容依據公開史料整理，如果聽到錯誤，歡迎告訴我們。
+
+主要參考資料：
+・中央社〈台灣人生活從黑白變彩色 一切從解嚴令開始〉https://www.cna.com.tw/news/aipl/201707145011.aspx
+・內政部〈政黨法制〉https://www.moi.gov.tw/cp.aspx?n=695
+・司法院 釋字第31號 https://cons.judicial.gov.tw/docdata.aspx?fid=100&amp;id=310212
+・司法院 釋字第261號 https://cons.judicial.gov.tw/docdata.aspx?fid=100&amp;id=310442
+・中央社〈李登輝總統宣告終止動員戡亂時期〉https://www.cna.com.tw/news/ahel/202304275005.aspx
+・立法院〈民主國會卅年特展〉https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=5255&amp;pid=226769
+・總統府〈修正中華民國憲法增修條文〉（1994）https://www.president.gov.tw/Page/294/40712
+・中央選舉委員會（1996 總統副總統選舉）https://web.cec.gov.tw/english/article/21785
+
+配音：ElevenLabs AI 語音；音效：ElevenLabs 生成。</description>
+      <guid isPermaLink="false">31514fc2-7054-4dbb-909a-7dd2b298d0e8</guid>
+      <pubDate>Thu, 05 Nov 2026 16:50:00 +0800</pubDate>
+      <enclosure url="https://woodenfish9527.github.io/history-podcast/audio/2026-11-05_first-vote.mp3" length="11054227" type="audio/mpeg"/>
+      <itunes:duration>00:11:31</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>第1集｜三十八年的緊急狀態：戒嚴</title>
+      <description>一九八七年七月十四日深夜，時鐘走過十二點，台灣持續了三十八年的戒嚴結束了。戒嚴是什麼？那時候的人怎麼過日子？為什麼翻譯一則《大力水手》漫畫，會讓作家柏楊失去自由九年多？這一集，翻頁人帶你把課本翻過去的那一頁翻回來。
+
+對應課程：國小社會「臺灣的民主發展」（108 課綱 Cd-Ⅲ-1）
+
+本節目從選題、寫稿到配音、音效，皆由 AI 製作（文稿經另一個 AI 交叉查核），內容依據公開史料整理。如果聽到錯誤，歡迎告訴我們。
+
+主要參考資料：
+・國家發展委員會檔案管理局 檔案支援教學網〈民主運動與憲政改革〉https://art.archives.gov.tw/tw/art/1491.html
+・國家發展委員會檔案管理局 檔案支援教學網〈戒嚴時期之相關管制辦法－郵件檢查〉https://art.archives.gov.tw/tw/art/1530-13399.html
+・國家發展委員會檔案管理局 檔案支援教學網〈電視臺的出現〉https://art.archives.gov.tw/tw/art/1130.html
+・國家人權博物館 國家人權記憶庫〈白色恐怖〉https://memory.nhrm.gov.tw/NormalNode/Detail/83?MenuNode=14
+・中央社〈解嚴30年 台灣從威權邁向自由民主〉https://www.cna.com.tw/news/aipl/201707140387.aspx
+・Taipei Times（柏楊事件）https://www.taipeitimes.com/News/feat/archives/2017/09/24/2003679025
+
+配音：ElevenLabs AI 語音；音效：ElevenLabs 生成。</description>
+      <guid isPermaLink="false">5a7c596f-a73f-4acf-8202-cd3e9eb8772f</guid>
+      <pubDate>Thu, 05 Nov 2026 14:30:00 +0800</pubDate>
+      <enclosure url="https://woodenfish9527.github.io/history-podcast/audio/2026-11-05_martial-law.mp3" length="8617525" type="audio/mpeg"/>
+      <itunes:duration>00:08:59</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
