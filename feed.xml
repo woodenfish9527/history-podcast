@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>課本沒說完的故事</title>
+    <link>https://woodenfish9527.github.io/history-podcast/</link>
+    <atom:link href="https://woodenfish9527.github.io/history-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>zh-Hant</language>
+    <description>用說故事的方式，陪國小高年級到國中的你聽懂歷史。本節目從選題、寫稿到配音皆由 AI 製作，內容依據史料整理。</description>
+    <itunes:author>翻頁人（AI 說書人）</itunes:author>
+    <itunes:image href="https://woodenfish9527.github.io/history-podcast/cover.jpg"/>
+    <itunes:category text="Kids &amp; Family"><itunes:category text="Education for Kids"/></itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <copyright>© 2026 課本沒說完的故事</copyright>
+    <item>
+      <title>第21集｜史上第一份假戰報與木乃伊的護照：拉美西斯二世傳奇（雙語故事探案・古埃及④最終回）</title>
+      <description>西元一九七六年九月，巴黎機場停機坪上，法國共和國衛隊儀仗隊整齊列隊行國家元首最高軍禮——走下專機的神秘貴賓，竟然是三千歲的古埃及法老木乃伊「拉美西斯二世」！這趟搶救黴菌的跨國醫療之旅是真的，但網路上瘋傳「埃及替他印了一本正式護照、職業寫已故國王」到底是真是假？更爆笑的是，這位活到大約九十歲、在全埃及神廟牆上吹牛自己單槍匹馬打贏卡疊石戰役的大法老，竟然在三千年後被土耳其出土的西臺泥板書信當場抓包——原來當時根本只打成平手，最後雙方反而簽下了人類史上最古老的國際和平條約，複製品至今高掛在紐約聯合國總部！
+
+本集為「古埃及特展雙語探案」四部曲壓軸最終回，採用「2.0 微場景接力法」（3～6 句連貫純英文冒險電影場景 ➔ 翻頁人與小書籤純中文推理推進，絕不中英夾雜），直接對應特展明星展品「一點五噸拉美西斯二世巨像拳頭」與「埃及與世界」外交泥板書信，並附上全系列四集看展尋寶總複習：
+・00:00 開場電影畫面（1976 巴黎機場元首軍禮）與四字聽力暖身（Giant / Treaty / Passport / Peace）
+・03:29 第一章：活到九十歲的超級建造王（阿布辛貝巨像與 1.5 噸巨像拳頭）
+・05:54 第二章：西元前 1274 年卡疊石戰役與神廟牆上的超級大吹牛
+・07:54 第三章：三千年後的土耳其泥板抓包與人類第一份和平條約（聯合國總部）
+・10:57 第四章：1976 年飛巴黎治黴菌與「埃及護照」網路都市傳說真相查核
+・14:08 第五章：古埃及四部曲看展尋寶總複習
+・15:25 聽力拆解與六句開口跟讀（Always check both sides. / They signed a peace treaty. / He lived to ninety years old. / Was it really true? / Do not believe every viral story. / Welcome to ancient Egypt.）
+・19:07 終極全英文盲聽挑戰（約四分鐘無中文完整重溫故事）
+
+本節目從選題、寫稿到配音，皆由 AI 製作；說書人翻頁人、小書籤與英文說書人皆為 AI 配音角色。內容依據大英博物館、聯合國與公開考古史料整理，如果聽到錯誤，歡迎告訴我們。
+
+主要參考資料：
+・World History Encyclopedia（Ramesses II） https://www.worldhistory.org/Ramesses_II/
+・United Nations（The Kadesh Peace Treaty replica at UN Headquarters） https://www.un.org/
+・HistoryExtra（Did Ramesses II really have a passport?） https://www.historyextra.com/
+完整參考資料：https://woodenfish9527.github.io/history-podcast/sources/2026-11-24_en-06-ramesses-ii.html
+
+配音：ElevenLabs AI 語音。</description>
+      <guid isPermaLink="false">3d84f0e2-51b9-4c7a-9e21-8f64b203a9d7</guid>
+      <pubDate>Wed, 25 Nov 2026 10:45:00 +0800</pubDate>
+      <enclosure url="https://woodenfish9527.github.io/history-podcast/audio/2026-11-24_en-06-ramesses-ii.mp3" length="22942240" type="audio/mpeg"/>
+      <itunes:duration>00:23:54</itunes:duration>
+      <itunes:episode>21</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>第20集｜被抹掉的女法老：哈特謝普蘇特的假鬍子與一顆牙齒（雙語故事探案・古埃及③）</title>
+      <description>走進三千五百年前的埃及懸崖神廟，抬頭一看卻讓人背脊發涼——牆壁上這位法老的臉孔全被鐵鎚鑿掉、王名圈全被刮平，巨型雕像更被敲碎掩埋進沙坑裡！究竟是誰，想把古埃及最強勢的女法老「哈特謝普蘇特」從歷史裡徹底刪除？她當年為什麼要在下巴戴上細長的禮儀「假鬍子」？失蹤超過三千年的女法老木乃伊，最後竟在西元二〇〇七年靠著一隻小木盒裡的一顆「臼齒」與現代電腦斷層掃描宣告破案！
+
+本集為「古埃及特展雙語探案」四部曲第三集，採用「2.0 微場景接力法」（3～6 句連貫純英文冒險電影場景 ➔ 翻頁人與小書籤純中文推理推進，絕不中英夾雜），聽完走進博物館看特展，馬上就能看懂法老假鬍子、王位名飾物與被鑿毀雕像背後的精彩故事：
+・00:00 開場電影畫面與四字聽力暖身（Queen / Beard / Erase / Tooth）
+・03:23 第一章：從王后到戴假鬍子的女法老（「王權制服」而非假裝男人）
+・06:30 第二章：龐特國黃金貿易艦隊與代爾埃爾巴哈里懸崖神廟
+・08:14 第三章：死後二十年的「全國大抹除」之謎（私人復仇說 vs 政治繼承秩序說）
+・11:13 第四章：失蹤三千年的無名女木乃伊（帝王谷六十號小墓 KV60）
+・13:14 第五章：二〇〇七年木盒裡的一顆臼齒與電腦斷層掃描破案
+・16:35 聽力拆解與六句開口跟讀（She wore a false beard. / Someone erased her name. / Why did they hide her? / Look inside the wooden box. / It was a perfect match. / History cannot be erased forever.）
+・20:15 終極全英文盲聽挑戰（約四分鐘無中文完整重溫故事）
+
+本節目從選題、寫稿到配音，皆由 AI 製作；說書人翻頁人、小書籤與英文說書人皆為 AI 配音角色。內容依據大都會藝術博物館與公開考古研究資料整理，如果聽到錯誤，歡迎告訴我們。
+
+主要參考資料：
+・The Metropolitan Museum of Art（Hatshepsut: From Queen to Pharaoh） https://www.metmuseum.org/
+・Encyclopædia Britannica（Hatshepsut） https://www.britannica.com/biography/Hatshepsut
+・The Guardian（Tooth solves mystery of Egypt's greatest female pharaoh, 2007） https://www.theguardian.com/science/2007/jun/27/archaeology.egypt
+完整參考資料：https://woodenfish9527.github.io/history-podcast/sources/2026-11-24_en-05-hatshepsut.html
+
+配音：ElevenLabs AI 語音。</description>
+      <guid isPermaLink="false">7a2d5c18-9f41-4b83-b0e6-3c91a8475d12</guid>
+      <pubDate>Wed, 25 Nov 2026 10:40:00 +0800</pubDate>
+      <enclosure url="https://woodenfish9527.github.io/history-podcast/audio/2026-11-24_en-05-hatshepsut.mp3" length="23993407" type="audio/mpeg"/>
+      <itunes:duration>00:25:00</itunes:duration>
+      <itunes:episode>20</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>第19集｜大漠裡的天書密碼：羅塞塔石碑破解大戰（雙語故事探案・古埃及②）</title>
+      <description>超過一千四百年，古埃及神廟牆上滿滿的小鳥、眼睛、獅子與眼鏡蛇，全世界沒有半個人讀得懂！直到西元一七九九年夏天，拿破崙軍隊的士兵在埃及拆除舊圍牆時，十字鎬意外敲出一塊刻著「三種文字」的神秘黑色石碑——羅塞塔石碑！原來上面寫的並不是藏寶圖，而是一道西元前一九六年的「減稅感謝狀」，但因為最下層刻著歐洲學者看得懂的古希臘文，這塊石碑立刻點燃了英國全才科學家湯瑪斯・楊，與法國語言神童商博良之間長達二十年的跨海解碼大對決！
+
+本集為「古埃及特展雙語探案」四部曲第二集，採用「2.0 微場景接力法」（3～6 句連貫純英文冒險電影場景 ➔ 翻頁人與小書籤純中文推理推進，絕不中英夾雜），聽完走進博物館看古埃及特展，一眼就能在牆壁、石雕與戒指上找出法老名字的「王名圈」：
+・00:00 開場電影畫面與四字聽力暖身（Stone / Code / Symbol / Secret）
+・03:40 第一章：失傳一千四百年的天書與泥牆裡的奇蹟
+・08:00 第二章：跨海二十年的解碼對決與「王名圈」線索（湯瑪斯・楊踏出第一步）
+・12:44 第三章：語言神童商博良的秘密武器「科普特語」與托勒密 × 克麗奧佩脫拉交叉驗證
+・15:44 第四章：阿布辛貝抄本的閃電時刻——解出拉美西斯、喊出「我抓到了！」並昏倒臥床五天
+・19:36 第五章：兩位天才的接力與走進博物館的象形文字攻略
+・22:23 聽力拆解與六句開口跟讀（Crack the code. / Nobody could read it. / Look inside the oval. / They share the same letters. / I have got it! / The silent stones began to speak.）
+・26:12 終極全英文盲聽挑戰（約五分鐘無中文完整重溫故事）
+
+本節目從選題、寫稿到配音，皆由 AI 製作；說書人翻頁人、小書籤與英文說書人皆為 AI 配音角色。內容依據大英博物館與公開歷史語言學資料整理，如果聽到錯誤，歡迎告訴我們。
+
+主要參考資料：
+・The British Museum（Everything you ever wanted to know about the Rosetta Stone） https://www.britishmuseum.org/blog/everything-you-ever-wanted-know-about-rosetta-stone
+・Encyclopædia Britannica（Rosetta Stone） https://www.britannica.com/topic/Rosetta-Stone
+・Encyclopædia Britannica（Jean-François Champollion） https://www.britannica.com/biography/Jean-Francois-Champollion
+完整參考資料：https://woodenfish9527.github.io/history-podcast/sources/2026-11-24_en-04-rosetta-stone.html
+
+配音：ElevenLabs AI 語音。</description>
+      <guid isPermaLink="false">9e31c7b4-2a58-4f16-8c04-6d7b1e9520a3</guid>
+      <pubDate>Tue, 24 Nov 2026 22:16:00 +0800</pubDate>
+      <enclosure url="https://woodenfish9527.github.io/history-podcast/audio/2026-11-24_en-04-rosetta-stone.mp3" length="30140333" type="audio/mpeg"/>
+      <itunes:duration>00:31:24</itunes:duration>
+      <itunes:episode>19</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>第18集｜打開三千年封印：圖坦卡門法老的詛咒（雙語故事探案・古埃及①）</title>
+      <description>一百年前埃及帝王谷的滾燙沙漠底下，考古學家霍華德・卡特苦挖五年一無所獲，連金主卡納馮伯爵都準備收手。沒想到最後一季開工短短幾天，相傳由一名十二歲埃及提水男孩踢到的平整石階，竟揭開了沉睡三千三百年、裝滿五千三百九十八件珍寶的圖坦卡門黃金陵墓！然而開墓四個月後，卡納馮伯爵卻因刮破臉頰上的蚊子包驟逝，開羅停電與英國愛犬哀嚎傳聞瘋傳全球，「法老的詛咒」正式引爆！
+
+本集為「古埃及特展雙語探案」四部曲首集，並全面升級為「2.0 微場景接力法」（3～6 句連貫純英文冒險電影場景 ➔ 翻頁人與小書籤純中文推理推進，絕不中英夾雜、不當呆板翻譯機），帶孩子一邊練聽力、一邊記下逛博物館看埃及特展的必找彩蛋：
+・00:00 開場電影畫面與四字聽力暖身（Tomb / Candle / Curse / Truth）
+・03:59 第一章：最後一季的賭注與十二歲提水男孩胡笙
+・09:00 第二章：「是的，奇妙的東西」與五千三百九十八件寶藏
+・14:19 第三章：金絲雀、蚊子與開羅停電的詛咒風暴
+・18:47 第四章：墓牆上沒寫詛咒：《泰晤士報》獨家採訪權大戰
+・23:36 第五章：2002《英國醫學期刊》統計打臉＋古墓麴黴菌假說
+・27:49 第六章：2010 年 CT/DNA 大反轉——約一百三十根拐杖的真實意義
+・31:30 第七章：走進博物館前的看展密碼（眼鏡蛇與禿鷹、沙布提、塞尼特桌遊）
+・33:29 聽力拆解與六句開口跟讀（Can you see anything? / Yes, wonderful things. / Hold your breath. / Could it be a curse? / Look at the real numbers. / History tells a different story.）
+・37:39 終極全英文盲聽挑戰（約四分鐘無中文完整重溫故事）
+
+本節目從選題、寫稿到配音，皆由 AI 製作；說書人翻頁人、小書籤與英文說書人皆為 AI 配音角色。內容依據公開考古檔案與學術研究資料整理，如果聽到錯誤，歡迎告訴我們。
+
+主要參考資料：
+・Griffith Institute, University of Oxford（Tutankhamun: Anatomy of an Excavation） https://www.griffith.ox.ac.uk/discoveringTut/
+・British Medical Journal（Mark R. Nelson, The mummy's curse: historical cohort study, 2002） https://www.bmj.com/content/325/7378/1482
+・Encyclopædia Britannica（Tutankhamun） https://www.britannica.com/biography/Tutankhamun
+完整參考資料：https://woodenfish9527.github.io/history-podcast/sources/2026-11-24_en-03-tutankhamun.html
+
+配音：ElevenLabs AI 語音。</description>
+      <guid isPermaLink="false">c4f8e21a-7b3d-4e92-a615-9d8c3e104f72</guid>
+      <pubDate>Tue, 24 Nov 2026 21:40:00 +0800</pubDate>
+      <enclosure url="https://woodenfish9527.github.io/history-podcast/audio/2026-11-24_en-03-tutankhamun.mp3" length="42180901" type="audio/mpeg"/>
+      <itunes:duration>00:43:56</itunes:duration>
+      <itunes:episode>18</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>第17集｜海上的幽靈船：瑪麗・賽勒斯特號（雙語故事探案①）</title>
+      <description>想像一下，在漆黑的大西洋正中央，有一艘空蕩蕩的帆船正像醉漢一樣左右搖晃。餐桌上擺著食物，船長太太的縫紉機上還夾著沒縫完的小孩衣服，一小瓶潤滑油直挺挺地立在桌邊沒倒下來，抽屜裡的金幣、懷錶、珠寶和半年份的食物與淡水全都原封不動。然而，船上的十個人——包含經驗老道的布里格斯船長、太太莎拉、兩歲的小女兒蘇菲亞，以及七名水手——卻連同救生艇一起在大海上憑空消失！
+
+這是全新「雙語故事探案」特別企劃第一集！我們採用「一句純英文 ➔ 接一句純中文」無中英夾雜的雙語沉浸架構，由英文母語說書人以清晰慢速唸出故事，搭配翻頁人與小書籤一步步推理破案：
+・00:00 開場與聽力暖身（三個核心單字：Captain / Lifeboat / Disappear）
+・03:07 第一章：不吉利的古船與紐約港的起航
+・08:56 第二章：大西洋正中央的醉漢帆船
+・13:55 第三章：船長室裡的童裝與消失的救生艇
+・21:39 第四章：法庭上的懷疑與百年奇想
+・26:24 第五章：九個空木桶與倫敦大學的「冷焰氣爆」實驗
+・33:43 聽力拆解與五句開口跟讀（Something is wrong. / Is anyone there? / It makes no sense. / The lifeboat was missing. / They left in a hurry.）
+・36:28 終極全英文盲聽挑戰（三分鐘無中文完整重溫故事）
+
+本節目從選題、寫稿到配音，皆由 AI 製作；說書人翻頁人、小書籤與英文說書人皆為 AI 配音角色。內容依據公開海事史料與學術公開資料整理，如果聽到錯誤，歡迎告訴我們。
+
+主要參考資料：
+・Smithsonian Magazine（The Mystery of the Mary Celeste） https://www.smithsonianmag.com/history/abandoned-ship-the-mary-celeste-174488104/
+・Encyclopædia Britannica（Mary Celeste） https://www.britannica.com/topic/Mary-Celeste
+・University College London News（UCL chemistry experiment on Mary Celeste explosion theory, 2006） https://www.ucl.ac.uk/
+完整參考資料：https://woodenfish9527.github.io/history-podcast/sources/2026-11-23_en-01-mary-celeste.html
+
+配音：ElevenLabs AI 語音。</description>
+      <guid isPermaLink="false">87112834-48f9-4e70-aa5e-8b9d821c1801</guid>
+      <pubDate>Mon, 23 Nov 2026 22:30:00 +0800</pubDate>
+      <enclosure url="https://woodenfish9527.github.io/history-podcast/audio/2026-11-23_en-01-mary-celeste.mp3" length="38444764" type="audio/mpeg"/>
+      <itunes:duration>00:40:03</itunes:duration>
+      <itunes:episode>17</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>第16集｜台灣魔神仔② 敲鑼打鼓與大腦的戲法（傳說系列・最終回）</title>
+      <description>天色完全暗下來，山谷裡飄著伸手不見五指的濃霧。村裡有人進山沒回來，全村立刻動員：先去土地公廟或客家庄的「伯公廟」稟報，再帶著銅鑼、大鼓、鐵臉盆和鞭炮走進竹林，一遍又一遍大聲呼喊失蹤者的名字。古早全村敲鑼打鼓喊名字，真的只是為了嚇跑妖怪嗎？而在二〇一四年的花蓮林田山，一位八十歲阿嬤走失長達五天、搜救出動超過五百人次，最後竟然在約三公里外的溪床巨石下奇蹟平安獲救！
+
+台灣魔神仔兩部曲最終回，翻頁人與小書籤把偵探筆記翻到最後一頁，一起走進古早的山林搜救與現代急診室：
+・第一章：一面銅鑼、一串鞭炮與伯公廟——閩客聚落「找人三步驟」、客家「伯公（秩序）」與「魍神（荒野）」的文化對照、中研院林美容教授解析「喊名字」的人類學意義，以及沒有 GPS 年代的聲波定位搜救系統。
+・第二章：二〇一四年花蓮林田山奇蹟獲救——五百人次搜救五天，並列家屬口述謝神與醫師解析，並向第一線搜救人員致敬。
+・第三章：大腦在野外變出的戲法——從急診室解開失智症空間定向感、缺水低血糖引發的「急性譫妄」（幻覺與抓樹葉塞嘴）、中度失溫的「反常脫衣現象」與暫時性全腦失憶，同時誠實保留對未知的謙遜。
+・第四章與第五章：送給每個人的山林自救與守護長輩工具包——內政部消防署「STOP 原則」、為什麼千萬不要下切溪谷、山區無訊號緊急電話 112、衛福部「愛的手鍊」與街頭遇到疑似走失長輩的「看、問、留、撥 110」口訣。
+
+對應課程：國小／國中綜合活動與健康教育（戶外登山迷途自救、高齡化社會失智認識與多元閩客民俗文化）
+
+本節目從選題、寫稿到配音，皆由 AI 製作（文稿經另一個 AI 交叉查核）；說書人翻頁人與小書籤都是 AI 配音的虛構角色。內容依據公開史料、政府機關與醫療衛教公開資料整理，民間信仰與醫學觀點皆會在節目中客觀呈現。如果聽到錯誤，歡迎告訴我們。
+
+主要參考資料：
+・中央研究院民族學研究所（林美容教授《魔神仔的人類學想像》） https://www.ioe.sinica.edu.tw/
+・內政部消防署（登山迷途 STOP 原則、禁下切溪谷與 112 宣導） https://www.nfa.gov.tw/
+・衛生福利部（失智症衛教、愛的手鍊、長照 1966 與「看問留撥」宣導） https://www.mohw.gov.tw/
+完整參考資料：https://woodenfish9527.github.io/history-podcast/sources/2026-11-21_mosina-02-science.html
+
+配音：ElevenLabs AI 語音。</description>
+      <guid isPermaLink="false">23267531-c94b-4438-ada9-588a822f7e73</guid>
+      <pubDate>Mon, 23 Nov 2026 22:25:00 +0800</pubDate>
+      <enclosure url="https://woodenfish9527.github.io/history-podcast/audio/2026-11-21_mosina-02-science.mp3" length="26080278" type="audio/mpeg"/>
+      <itunes:duration>00:27:10</itunes:duration>
+      <itunes:episode>16</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>第15集｜台灣魔神仔① 百年前報紙裡的魔神仔（傳說系列）</title>
+      <description>傳說是這樣說的：下午四點多山裡起霧，走在竹叢和芒草小路上，前面閃過一個模糊身影帶著你一直走；你以為自己吃了熱騰騰的豬肉和雞肉，醒來伸手往懷裡一摸，剩下的竟然全是青蛙乾、螳螂腳和蚯蚓。長輩壓低聲音說，那是遇到「魔神仔」（môo-sîn-á）了。你以為這只是茶餘飯後的鄉野奇談？翻開一百多年前的台灣舊報紙，那些似曾相識的離奇經歷，早在一八九九年到一九二八年間，就被白紙黑字印在了新聞版面上！
+
+台灣魔神仔系列上集，小書籤帶著上週校外教學在山霧裡走散五分鐘的真實經歷，跟著翻頁人把燈調暗，一頁一頁翻開塵封百年的舊報紙卷宗：一九〇九年剛蓋好新起街市場（今西門紅樓）的台北西門町一帶，日本店員廣瀨兵藏失蹤七夜後竟呆立在市場後方的番薯田裡，報紙對比了日本狐狸精與台灣「草澤魔神」；一八九九年最早報載並排推測迷魂藥與魔神、一九〇一年〈遇魔述異〉寫出「能作幻境迷人」、一九〇八年〈山魔〉記下懷裡的青蛙乾與蚯蚓；為什麼清朝地方志幾乎找不到「魔神仔」三字？一九二一年片岡巖《臺灣風俗誌》記下的「毛生仔」竟是刺蝟平頭小孩、並不是紅衣女孩？走進沒有電燈、靠「番仔油燈」與竹火把度夜的百年前台灣農村，最後揭開中研院林美容教授的民俗分類——在台灣傳統觀念裡，魔神仔其實不是「鬼」！
+
+對應課程：國中歷史「日本統治時期的臺灣」（近代都市與農村生活、報刊媒體與民間信仰文化）
+
+本節目從選題、寫稿到配音，皆由 AI 製作（文稿經另一個 AI 交叉查核）；說書人翻頁人與小書籤都是 AI 配音的虛構角色。內容依據公開史料、圖書館與學術機構公開研究整理，傳說與史實會在節目裡分開標示。如果聽到錯誤，歡迎告訴我們。
+
+主要參考資料：
+・國立臺灣圖書館（《臺灣日日新報》與《漢文臺灣日日新報》館藏研究） https://www.ntl.edu.tw/
+・國史館臺灣文獻館（清代臺灣方志與片岡巖《臺灣風俗誌》文獻典藏） https://www.th.gov.tw/
+・中央研究院民族學研究所（林美容教授臺灣民間信仰與魔神仔研究） https://www.ioe.sinica.edu.tw/
+完整參考資料：https://woodenfish9527.github.io/history-podcast/sources/2026-11-20_mosina-01-newspaper.html
+
+配音：ElevenLabs AI 語音。</description>
+      <guid isPermaLink="false">151e3858-5615-48f5-8e31-de1c90ec3f7c</guid>
+      <pubDate>Sat, 21 Nov 2026 13:42:00 +0800</pubDate>
+      <enclosure url="https://woodenfish9527.github.io/history-podcast/audio/2026-11-20_mosina-01-newspaper.mp3" length="30190070" type="audio/mpeg"/>
+      <itunes:duration>00:31:27</itunes:duration>
+      <itunes:episode>15</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>第14集｜台灣藏寶圖② 政府發的挖寶申請表（傳說系列・最終回）</title>
+      <description>傳說是這樣說的：一九四五年二戰結束、日本撤離台灣，因為走得太匆忙，把成噸黃金埋在台灣的山洞、砲台跟防空洞底下！聽起來像漫畫情節，但最讓人跌破眼鏡的是：中華民國政府竟然真的為此成立過監理委員會，還訂了一套到今天依然有效的「合法挖寶辦法」——通過審查挖到金銀珠寶，你拿四成、國家拿六成！
+
+台灣藏寶圖系列下集（兩部曲完結），小書籤帶著白紙和吃布丁的塑膠湯匙，準備填表去挖學校後面的舊防空洞！我們會坐時光機回到一九四六年日僑限帶一千日圓與一箱行李遣返的台灣街頭、打開一九五五年省政府公文檔案（居然有人寫公文去台南溪底撈日本舊鐵軌！）、一關一關闖過現行《國有埋沉財產申請掘發打撈辦法》（十萬元起跳的保證金、水土保持計畫、四六分帳、沒挖到不退費！），再走訪基隆大武崙砲台、台南秋茂園、高雄壽山超挖山崩判賠四十九萬多，以及二〇二二年台東知本海岸繳交兩百多萬保證金與卡大地布部落傳統領域協調的現場。七十年來，到底有沒有人真的挖出日軍黃金？
+
+對應課程：國中歷史「戰後臺灣」（戰後接收與日僑遣返、物價通膨、法治演變、古蹟保存、水土保持與原住民族傳統領域）
+
+本節目從選題、寫稿到配音，皆由 AI 製作（文稿經另一個 AI 交叉查核）；說書人翻頁人與小書籤都是 AI 配音的虛構角色。內容依據現行法規、政府公開檔案、文化資產資料與新聞報導整理，傳說與史實會在節目裡分開標示。如果聽到錯誤，歡迎告訴我們。
+
+主要參考資料：
+・全國法規資料庫《國有埋沉財產申請掘發打撈辦法》 https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0370004
+・國家發展委員會檔案管理局「國家檔案資訊網」（一九五五年監理委員會與溪底打撈鐵軌公文） https://aa.archives.gov.tw/
+・文化部「國家文化記憶庫」（一九四六年日僑遣返規定與戰後史料） https://tcmb.culture.tw/
+完整參考資料：https://woodenfish9527.github.io/history-podcast/sources/2026-11-20_treasure-02-permit.html
+
+配音：ElevenLabs AI 語音。</description>
+      <guid isPermaLink="false">462b9bcc-be19-4989-a268-f334f68886d6</guid>
+      <pubDate>Fri, 20 Nov 2026 16:10:00 +0800</pubDate>
+      <enclosure url="https://woodenfish9527.github.io/history-podcast/audio/2026-11-20_treasure-02-permit.mp3" length="21201022" type="audio/mpeg"/>
+      <itunes:duration>00:22:05</itunes:duration>
+      <itunes:episode>14</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>第13集｜廖添丁③ 從兇賊到義賊（傳說系列・最終回）</title>
+      <description>一九〇九年十一月，二十六歲的廖添丁在八里山區過世了。照理說，故事應該停在這裡。可是幾十年後，書的封面、收音機裡的講古節目不再叫他「兇賊」，改口叫他「義賊」；八里更出現了祭祀他的廟。同一個人，是誰、在什麼時候，把報紙上的「兇賊」，變成了後來大家口中的「義賊」？
+
+廖添丁三部曲最終回，我們追查他的名字在一百年裡經歷了什麼：死後沒幾天就不相信他死了的傳聞與墓前的一炷香、日本時代舞台上的兩張臉（一九一一年的勸善刑案戲 vs 一九三〇年前後的反殖民戲劇）、戰後一本七字句唸唱的「歌仔冊」與電影建廟、一九六〇至七〇年代吳樂天在收音機裡一邊賣藥一邊講古、一路演變到雲門舞集舞劇、網路遊戲與二〇二三年《阮是廖添丁》女性歌舞劇！小書籤這集自己變成了校園「飛身救校長」傳說的主角——她最後決定去澄清嗎？
+
+對應課程：國中歷史「日本統治時期的臺灣」；百年庶民娛樂史與媒體識讀
+
+本節目從選題、寫稿到配音，皆由 AI 製作（文稿經另一個 AI 交叉查核）；說書人翻頁人與小書籤都是 AI 配音的虛構角色。內容依據公開史料與學界研究整理，檔案紀錄與後世創作版本會在節目裡分開說明。如果聽到錯誤，歡迎告訴我們。
+
+主要參考資料：
+・蔡錦堂〈義俠？或盜匪？——以台灣・廖添丁與日本・鼠小僧為例〉《臺灣學研究》9（2010） https://www.ntl.edu.tw/public/Attachment/07191504594.pdf
+・陳慧勻〈舞台上的兇賊與義賊——評述日治至戰後的新劇《廖添丁》〉《臺灣學研究》9（2010） https://www.ntl.edu.tw/public/Attachment/07191524085.pdf
+・吳勇宏〈塑形於閱聽與傳唱之間——歌仔冊中廖添丁敘事的俠義化〉《臺灣學研究》9（2010） https://www.ntl.edu.tw/public/Attachment/07191532493.pdf
+完整參考資料：https://woodenfish9527.github.io/history-podcast/sources/2026-11-20_ltd-03-legend.html
+
+配音：ElevenLabs AI 語音。</description>
+      <guid isPermaLink="false">4e67e9de-8e40-4525-9ae3-77a602e3fc01</guid>
+      <pubDate>Fri, 20 Nov 2026 13:10:00 +0800</pubDate>
+      <enclosure url="https://woodenfish9527.github.io/history-podcast/audio/2026-11-20_ltd-03-legend.mp3" length="17857349" type="audio/mpeg"/>
+      <itunes:duration>00:18:36</itunes:duration>
+      <itunes:episode>13</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>第12集｜台灣藏寶圖① 井底的海底密道（傳說系列）</title>
+      <description>傳說是這樣說的：基隆海邊的「番字洞」刻著荷蘭人藏寶密碼；淡水紅毛城底下有地道，放一隻貓進去竟然從基隆跑出來；台南安平古堡和赤崁樓之間，還藏著一條「海底密道」。三百多年前的台灣地底下，真的有這些秘密通道嗎？
+
+台灣藏寶圖系列上集，翻頁人和帶著塑膠湯匙、撿到「校園藏寶圖」的小書籤，一路從北台灣基隆查到淡水、台南，最後搭船去澎湖！我們會看見：荷蘭士兵在番字洞留下的三百六十年前「到此一遊」、淡水紅毛城二〇〇七年草皮塌出四個圓坑的真相、荷蘭人怎麼用牡蠣殼灰＋糯米汁＋糖水蓋出四百年不倒的「三合土」城堡、文史專家盧嘉興坐進竹籠吊下赤崁樓古井的探勘現場、一八二三年曾文溪改道填平四公里「台江內海」的地理劇變，以及最後的大反轉——一九九五年澎湖海底真的找到清代沉船「將軍一號」！
+
+對應課程：國中歷史「荷蘭與鄭氏時期」「清帝國時期的臺灣」（大員、台江內海地理變遷、水下文化資產保存）
+
+本節目從選題、寫稿到配音，皆由 AI 製作（文稿經另一個 AI 交叉查核）；說書人翻頁人與小書籤都是 AI 配音的虛構角色。內容依據公開史料、文化資產調查與博物館公開資料整理，傳說與史實會在節目裡分開標示。如果聽到錯誤，歡迎告訴我們。
+
+主要參考資料：
+・文化部文化資產局「國家文化資產網」（熱蘭遮堡遺構、赤崁樓、淡水紅毛城、水下文化資產） https://nchdb.boch.gov.tw/
+・台江國家公園（台江內海與一八二三年曾文溪改道史料） https://www.tjnp.gov.tw/
+・國立歷史博物館（澎湖清代沉船「將軍一號」水下考古） https://www.nmh.gov.tw/
+完整參考資料：https://woodenfish9527.github.io/history-podcast/sources/2026-11-19_treasure-01-tunnel.html
+
+配音：ElevenLabs AI 語音。</description>
+      <guid isPermaLink="false">ce3b13bd-8f01-4ee1-9ca1-9cd787ce6046</guid>
+      <pubDate>Fri, 20 Nov 2026 01:10:00 +0800</pubDate>
+      <enclosure url="https://woodenfish9527.github.io/history-podcast/audio/2026-11-19_treasure-01-tunnel.mp3" length="24573117" type="audio/mpeg"/>
+      <itunes:duration>00:25:36</itunes:duration>
+      <itunes:episode>12</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>第11集｜廖添丁② 捉不到的人（傳說系列）</title>
+      <description>一九〇九年夏天，凌晨兩點，台北一間警察宿舍裡，有人劃亮了一根火柴。這一次，廖添丁偷走的不是衣服也不是捲菸，而是警察的槍、佩劍和三十發子彈。報紙登出他的照片、標題寫著「飛天梟賊」「神出鬼沒」，警察動員保甲與連坐全面搜捕——他為什麼抓不到？最後又是怎麼被找到的？
+
+廖添丁系列第二集，我們翻開一九〇九年的檔案與報紙：一根火柴、報紙上的一張照片與保甲制度、一頂林投帽怎麼變成追捕線索、從台北搭火車到淡水再過河去八里的淡水河風貌，以及觀音山樹蔭下的最後一張棕櫚席。當小書籤真的跑去問操場投籃的學長本人，才發現檔案裡的故事，比傳說普通得多，也複雜得多。
+
+對應課程：國中歷史「日本統治時期的臺灣」（警察、保甲與連坐、報紙與交通）；媒體識讀
+
+本節目從選題、寫稿到配音，皆由 AI 製作（文稿經另一個 AI 交叉查核）；說書人翻頁人與小書籤都是 AI 配音的虛構角色。內容依據公開史料整理；警察報告、法院檔案與當年報紙皆為官方一方紀錄，不同說法與查不到的部分，節目裡會分開說明。如果聽到錯誤，歡迎告訴我們。
+
+主要參考資料：
+・國史館臺灣文獻館〈檔案講古—廖添丁〉 https://www.th.gov.tw/Epaper_Content/236/8112/
+・王麒銘〈日治檔案中的廖添丁及其共犯〉《臺灣學研究》9（2010） https://www.ntl.edu.tw/public/Attachment/0719152658.pdf
+・蔡錦堂〈義俠？或盜匪？——以台灣・廖添丁與日本・鼠小僧為例〉《臺灣學研究》9（2010） https://www.ntl.edu.tw/public/Attachment/07191504594.pdf
+完整參考資料：https://woodenfish9527.github.io/history-podcast/sources/2026-11-18_ltd-02-uncatchable.html
+
+配音：ElevenLabs AI 語音。</description>
+      <guid isPermaLink="false">6b0858b2-fa85-4399-bcbe-42074e534e45</guid>
+      <pubDate>Fri, 20 Nov 2026 01:05:00 +0800</pubDate>
+      <enclosure url="https://woodenfish9527.github.io/history-podcast/audio/2026-11-18_ltd-02-uncatchable.mp3" length="17753277" type="audio/mpeg"/>
+      <itunes:duration>00:18:30</itunes:duration>
+      <itunes:episode>11</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>第10集｜廖添丁① 報紙上的「兇賊」（傳說系列）</title>
+      <description>傳說是這樣說的：廖添丁會飛簷走壁、劫富濟貧，日本警察怎麼抓都抓不到。可是一百多年前，同一個人，在報紙上被叫做「兇犯」。同一個人，為什麼一邊叫他英雄，一邊叫他壞人？
+
+傳說系列第一集，我們不說故事，我們來辦案。翻開四張紙：一本戶籍簿（他八歲就成了「戶主」）、一份判決書（偷的不是金子，是衣服和一箱捲菸）、一條大稻埕的茶街（揀茶的婦女、一台要郵差快一年薪水的腳踏車、剪了一半的辮子、「國語」其實是日語），以及一九〇五年的〈捕獲兇犯〉。傳說說他劫富濟貧——那他到底偷了誰？小書籤也發現，學長「閉著眼睛投籃」那一句，是她自己加的。
+
+對應課程：國中歷史「日本統治時期的臺灣」（戶口調查、警察、城市的改變）；媒體識讀
+
+本節目從選題、寫稿到配音，皆由 AI 製作（文稿經另一個 AI 交叉查核）；說書人翻頁人與小書籤都是 AI 配音的虛構角色。內容依據公開史料整理；當年的戶籍、判決與報紙都是官方一方的紀錄，傳說則是後來的作品，節目裡會分開說明。如果聽到錯誤，歡迎告訴我們。
+
+主要參考資料：
+・王麒銘〈日治檔案中的廖添丁及其共犯〉《臺灣學研究》9（2010） https://www.ntl.edu.tw/public/Attachment/0719152658.pdf
+・蔡錦堂〈義俠？或盜匪？——以台灣・廖添丁與日本・鼠小僧為例〉《臺灣學研究》9（2010） https://www.ntl.edu.tw/public/Attachment/07191504594.pdf
+・國史館臺灣文獻館〈檔案講古—廖添丁〉 https://www.th.gov.tw/Epaper_Content/236/8112/
+完整參考資料：https://woodenfish9527.github.io/history-podcast/sources/2026-11-18_ltd-01-newspaper.html
+
+配音：ElevenLabs AI 語音。</description>
+      <guid isPermaLink="false">3db406db-b013-4dc1-a2e1-c51e2783ee35</guid>
+      <pubDate>Wed, 18 Nov 2026 10:26:56 +0800</pubDate>
+      <enclosure url="https://woodenfish9527.github.io/history-podcast/audio/2026-11-18_ltd-01-newspaper.mp3" length="19012170" type="audio/mpeg"/>
+      <itunes:duration>00:19:48</itunes:duration>
+      <itunes:episode>10</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>第9集｜李登輝⑦ 他留下的（最終回）</title>
+      <description>二〇〇〇年五月二十日，台北，總統府。有兩位總統站在同一個地方：一位剛就職，一位當了十二年。第四集，他在自己家裡的合照上只坐了椅子前面一點點；這一天，他把椅子讓給另一個政黨的人。坐上去很難，站起來、交出去，為什麼更難？
+
+李登輝系列最終回（1996–2020）：一句「特殊的國與國的關係」，兩邊為什麼看法完全不同；半夜一點四十七分的九二一大地震，緊急命令和第五集的「非常時期」差在哪裡；黑金、戒急用忍的批評——他的理由、反對者的理由、後來怎麼了；他把政權交出去；被自己當過主席的黨撤銷黨籍；九十五歲被扶著去看一群叫「源興牛」的牛，接回第一集的開場。最後，小書籤也把班長的聯絡簿交了出去。
+
+對應課程：國小高年級社會、國中歷史「戰後臺灣」的政黨輪替（108 課綱 Cd-Ⅲ-1、Cd-Ⅲ-2、歷Fa-Ⅳ-1）；九二一連結防災學習
+
+本節目從選題、寫稿到配音、音效，皆由 AI 製作（文稿經另一個 AI 交叉查核）；說書人翻頁人與小書籤都是 AI 配音的虛構角色。內容依據公開史料整理，引用本人與他人的說法時都註明是回憶；北京、臺北、華府的說法各自標明。如果聽到錯誤，歡迎告訴我們。
+
+主要參考資料：
+・總統府〈總統接受德國之聲專訪〉全文 https://www.president.gov.tw/NEWS/5749
+・全國法規資料庫〈九二一震災緊急命令〉 https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=A0000012
+・中央社〈李登輝執政裂解國民黨 一黨獨大走向兩黨競爭〉 https://www.cna.com.tw/news/aipl/202007300329.aspx
+完整參考資料：https://woodenfish9527.github.io/history-podcast/sources/2026-11-15_lth-07-legacy.html
+
+配音：ElevenLabs AI 語音；音效：ElevenLabs 生成。</description>
+      <guid isPermaLink="false">0a63b8db-9332-41b5-b092-859107c0aa58</guid>
+      <pubDate>Sun, 15 Nov 2026 19:12:00 +0800</pubDate>
+      <enclosure url="https://woodenfish9527.github.io/history-podcast/audio/2026-11-15_lth-07-legacy.mp3" length="24900379" type="audio/mpeg"/>
+      <itunes:duration>00:25:56</itunes:duration>
+      <itunes:episode>9</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>第8集｜李登輝⑥ 第一張自己選的總統票</title>
+      <description>一九九五年，一對老夫妻站在美國一棟舊公寓前拍照——三十年前，他們住在這裡。這一趟回母校之後，海的另一邊發射了飛彈。九個月後，台灣人第一次自己投票選總統。
+
+李登輝系列第六集（1991–1996）：總統要「直接選」還是「請代表選」？他是總統，為什麼出國這麼難？在夏威夷，他為什麼決定不下飛機？美國國會三百九十六比零支持他回母校，他自己的外交部長卻寫了十四頁勸他別去。飛彈落在外海的那個三月，大家還敢去投票嗎？這一集小書籤也要參選：全班重新選班長，她可能選不上。
+
+對應課程：國小高年級社會、國中歷史「戰後臺灣」的民主化與兩岸關係（108 課綱 Cd-Ⅲ-1、Cd-Ⅲ-2、歷Fa-Ⅳ-1、歷Fa-Ⅳ-4）
+
+本節目從選題、寫稿到配音、音效，皆由 AI 製作（文稿經另一個 AI 交叉查核）；說書人翻頁人與小書籤都是 AI 配音的虛構角色。內容依據公開史料整理，引用他本人與他人的說法時都註明是回憶；北京、臺北、華府的說法各自標明。如果聽到錯誤，歡迎告訴我們。
+
+主要參考資料：
+・總統府〈總統在歐林講座演講〉全文 https://www.president.gov.tw/NEWS/22622
+・美國國會 H.Con.Res.53 議事進程 https://www.congress.gov/bill/104th-congress/house-concurrent-resolution/53/actions
+・中選會 1996 年總統副總統選舉 https://web.cec.gov.tw/english/article/21785
+完整參考資料：https://woodenfish9527.github.io/history-podcast/sources/2026-11-14_lth-06-first-ballot.html
+
+配音：ElevenLabs AI 語音；音效：ElevenLabs 生成。</description>
+      <guid isPermaLink="false">25ff3730-c145-4860-bc6b-fd2f21c6425f</guid>
+      <pubDate>Sun, 15 Nov 2026 09:52:00 +0800</pubDate>
+      <enclosure url="https://woodenfish9527.github.io/history-podcast/audio/2026-11-14_lth-06-first-ballot.mp3" length="26656643" type="audio/mpeg"/>
+      <itunes:duration>00:27:46</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>第7集｜李登輝⑤ 意外的總統</title>
+      <description>一九九〇年三月二十一日，一群大學生走進總統府。等他們的人，這一天才剛被投票選為總統——而選他的，正是學生要求下台的那些老代表。夾在中間的他，會站在哪一邊？
+
+李登輝系列第五集（1988–1991）：當了總統，為什麼還要當黨主席？提名的時候，為什麼吵「起立還是投票」？老代表為什麼四十幾年不用改選，這跟「動員戡亂」有什麼關係？他是總統，為什麼不能直接叫老代表下台？小書籤一個一個問。這一集她也有自己的麻煩：班長轉學了，她變成代理班長，有人說「可是我們又沒有選你」。
+
+對應課程：國小高年級社會、國中歷史「戰後臺灣」的民主化（108 課綱 Cd-Ⅲ-1、Cd-Ⅲ-2、歷Fa-Ⅳ-1）
+
+本節目從選題、寫稿到配音、音效，皆由 AI 製作（文稿經另一個 AI 交叉查核）；說書人翻頁人與小書籤都是 AI 配音的虛構角色。內容依據公開史料整理，引用他本人與他人的說法時都註明是回憶。如果聽到錯誤，歡迎告訴我們。
+
+主要參考資料：
+・中研院〈野百合學運〉特展 https://ios20.ascdc.tw/e2_wildlily/
+・司法院〈釋字第261號〉https://cons.judicial.gov.tw/docdata.aspx?fid=100&amp;id=310442
+・總統府〈憲法簡介〉動員戡亂時期臨時條款的施行及廢止 https://www.president.gov.tw/Page/93
+完整參考資料：https://woodenfish9527.github.io/history-podcast/sources/2026-11-14_lth-05-accidental-president.html
+
+配音：ElevenLabs AI 語音；音效：ElevenLabs 生成。</description>
+      <guid isPermaLink="false">2804f3a7-6312-4d4f-8b81-30a933c9b50f</guid>
+      <pubDate>Sat, 14 Nov 2026 12:16:00 +0800</pubDate>
+      <enclosure url="https://woodenfish9527.github.io/history-podcast/audio/2026-11-14_lth-05-accidental-president.mp3" length="17721094" type="audio/mpeg"/>
+      <itunes:duration>00:18:27</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>第6集｜李登輝④ 從教授到副總統</title>
+      <description>一張合照：在他自己家的客廳裡，他坐得好端正，椅子只坐了前面一點點。來的客人，是總統蔣經國。不到四年後，這個人會坐上全台灣最大的那張椅子。為什麼是他？
+
+李登輝系列第四集（1972–1988）：四張椅子，沒有一張是人民直接投票給他的——政務委員（終於取消肥料換穀）、台北市長（翡翠水庫開工、公園裡的《天鵝湖》）、台灣省主席（大湖的草莓田、「八萬農業建設大軍」不是軍隊）、副總統。中間，他失去了唯一的兒子。這一集小書籤心情很差：老師沒有投票，直接指定她當副班長。
+
+對應課程：國小高年級社會、國中歷史「戰後臺灣」的政治與經濟（108 課綱 Cd-Ⅲ-1、Cd-Ⅲ-2、歷Fa-Ⅳ-1、歷Fb-Ⅳ-1）
+
+本節目從選題、寫稿到配音、音效，皆由 AI 製作（文稿經另一個 AI 交叉查核）；說書人翻頁人與小書籤都是 AI 配音的虛構角色。內容依據公開史料整理，引用他本人與他人的說法時都註明是回憶。如果聽到錯誤，歡迎告訴我們。
+
+主要參考資料：
+・國史館〈李登輝總統大事日記年表暨僚屬故舊訪談〉https://presidentiallth.drnh.gov.tw/index.php?act=Archive%2Frelevant
+・總統府〈第7～9任 李總統登輝先生〉https://www.president.gov.tw/Page/86
+・林果顯〈民主化前夕的都市治理：以李登輝任臺北市長為中心〉（國史館）https://presidentiallth.drnh.gov.tw/article.php?access=PATA00092/61bd1fb2
+完整參考資料：https://woodenfish9527.github.io/history-podcast/sources/2026-11-14_lth-04-vice-president.html
+
+配音：ElevenLabs AI 語音；音效：ElevenLabs 生成。</description>
+      <guid isPermaLink="false">9494714d-fd8b-4238-b96e-deb8f552d5b2</guid>
+      <pubDate>Sat, 14 Nov 2026 10:34:00 +0800</pubDate>
+      <enclosure url="https://woodenfish9527.github.io/history-podcast/audio/2026-11-14_lth-04-vice-president.mp3" length="16801166" type="audio/mpeg"/>
+      <itunes:duration>00:17:30</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>第5集｜李登輝③ 種田的博士</title>
+      <description>一個在美國煎牛排請客、外號「牛排李」的留學生，寫出一篇得獎的博士論文。可是就在那段時間，有一天，他穿著睡衣被帶走了。
+
+李登輝系列第三集（1949–1971）：小書籤要猜這集的四樣東西——騎去上班的腳踏車、牛排、一本書、一件睡衣。他幫農民算帳，追查「農民辛苦種田，錢都跑到哪裡去了」；用園遊券聽懂「肥料換穀」；他選擇回到台灣；一九六九年被警備總部約談，太太在家等了漫長的一天。最後快轉到九十五歲的他和「源興牛」，接回系列第一集的開場。
+
+對應課程：國中七年級下學期歷史「戰後臺灣的經濟」（土地改革、以農業培養工業）、國小六年級社會「戰後經濟發展」（108 課綱 歷Fb-Ⅳ-1、Ce-Ⅲ-1、Cb-Ⅲ-1）
+
+本節目從選題、寫稿到配音、音效，皆由 AI 製作（文稿經另一個 AI 交叉查核）；說書人翻頁人與小書籤都是 AI 配音的虛構角色。內容依據公開史料整理，引用他本人與家人的說法時都註明是回憶。如果聽到錯誤，歡迎告訴我們。
+
+主要參考資料：
+・洪紹洋〈農業經濟學者李登輝與他的經濟幕僚〉（國史館）https://presidentiallth.drnh.gov.tw/article.php?access=PATA00101/f5cc876b
+・農業部〈物物交換達人〉（肥料換穀）https://kmweb.moa.gov.tw/theme_data.php?id=4&amp;theme=agri_story
+・農業部《源興牛新品種登記審定書》https://www.moa.gov.tw/redirect_files.php?id=53192
+完整參考資料：https://woodenfish9527.github.io/history-podcast/sources/2026-11-11_lth-03-farm-doctor.html
+
+配音：ElevenLabs AI 語音；音效：ElevenLabs 生成。</description>
+      <guid isPermaLink="false">b20ba97d-b455-422c-8106-a3c735fa82e0</guid>
+      <pubDate>Wed, 11 Nov 2026 13:36:00 +0800</pubDate>
+      <enclosure url="https://woodenfish9527.github.io/history-podcast/audio/2026-11-11_lth-03-farm-doctor.mp3" length="19550501" type="audio/mpeg"/>
+      <itunes:duration>00:20:22</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>第4集｜李登輝② 戰後的年輕人</title>
+      <description>他後來回憶，二二八那段時間，他把從日本帶回來的軍刀和軍服丟掉了。一個二十四歲的大學生，為什麼要丟掉自己的軍刀？
+
+李登輝系列第二集（1945–1949）：戰後回到台灣、進台大農經系；二二八事件期間他的經歷；在「普羅寮」讀書會加入、又離開一個左派組織——他自己的說法、朋友們的回憶、研究者的保留，像拼圖一樣並列，也講這件事後來在二〇〇四年選舉、二〇一三年綠島被追問的影響；最後是署名「山頂人」的情書，和借住在朋友家的新婚生活。小書籤把三個謎記在聯絡簿上，陪你一起解。
+
+對應課程：國中七年級下學期歷史「戰後臺灣的政治」（二二八事件）、國小高年級社會（108 課綱 歷Fa-Ⅳ-1、歷Fa-Ⅳ-2、Cb-Ⅲ-1、Cd-Ⅲ-1）
+
+本節目從選題、寫稿到配音、音效，皆由 AI 製作（文稿經另一個 AI 交叉查核）；說書人翻頁人與小書籤都是 AI 配音的虛構角色。內容依據公開史料整理，引用他本人的說法時都註明是回憶。如果聽到錯誤，歡迎告訴我們。
+
+主要參考資料：
+・李鎧揚〈從皇國少年到左翼青年：1940年代李登輝的轉向〉（國史館）https://presidentiallth.drnh.gov.tw/article.php?access=PATA00103%2F5a3fbdd8
+・任育德〈劉明修與《李登輝伝》的書寫史研究〉（國史館）https://presidentiallth.drnh.gov.tw/article.php?access=PATA00094%2F0e170959
+・二二八事件紀念基金會〈簡介〉https://www.228.org.tw/intro
+完整參考資料：https://woodenfish9527.github.io/history-podcast/sources/2026-11-09_lth-02-postwar.html
+
+配音：ElevenLabs AI 語音；音效：ElevenLabs 生成。</description>
+      <guid isPermaLink="false">93022222-602d-4dd8-8354-b8b62d7a37ac</guid>
+      <pubDate>Mon, 09 Nov 2026 23:17:00 +0800</pubDate>
+      <enclosure url="https://woodenfish9527.github.io/history-podcast/audio/2026-11-09_lth-02-postwar.mp3" length="22248010" type="audio/mpeg"/>
+      <itunes:duration>00:23:10</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>第3集｜李登輝① 三芝來的少年</title>
+      <description>二〇一八年，九十五歲的李登輝被扶著走進花蓮的牧場，那群牛叫「源興牛」，名字來自他三芝的老家「源興居」。從這一集開始，翻頁人和小書籤用七集，跟著李登輝走過他的一生，看他在每個時代做的選擇。
+
+第一集講他的少年時代（1923–1945）：警察的兒子、轉學四次、考試落榜又生病休學；在淡水中學借廁所的燈讀書；改名「岩里政男」的皇民化時代；為什麼選擇農業經濟；當日本兵，以及再也沒見面的哥哥。也講到兩件後來引起爭論的事——二〇〇七年到靖國神社祭拜哥哥、二〇一五年談自己年輕時的日本經驗——以及當時各方的不同看法。
+
+對應課程：國小高年級社會、國中七年級下學期歷史「日治時期」（108 課綱 歷Ea-Ⅳ-1、Cb-Ⅲ-1）
+
+本節目從選題、寫稿到配音、音效，皆由 AI 製作（文稿經另一個 AI 交叉查核）；說書人翻頁人與小書籤都是 AI 配音的虛構角色。內容依據公開史料整理，引用他本人的說法時都註明是回憶。如果聽到錯誤，歡迎告訴我們。
+
+主要參考資料：
+・總統府〈第7～9任 李總統登輝先生〉https://www.president.gov.tw/Page/86
+・李鎧揚〈從皇國少年到左翼青年：1940年代李登輝的轉向〉（國史館）https://presidentiallth.drnh.gov.tw/article.php?access=PATA00103%2F5a3fbdd8
+・國史館臺灣文獻館〈皇民化時期臺灣人改姓名的規定〉https://www.th.gov.tw/Epaper_Content/236/8621/
+完整參考資料：https://woodenfish9527.github.io/history-podcast/sources/2026-11-09_lth-01-boyhood.html
+
+配音：ElevenLabs AI 語音；音效：ElevenLabs 生成。</description>
+      <guid isPermaLink="false">8ad595fa-2062-4bd1-8b0b-52027d87bd54</guid>
+      <pubDate>Mon, 09 Nov 2026 16:19:00 +0800</pubDate>
+      <enclosure url="https://woodenfish9527.github.io/history-podcast/audio/2026-11-09_lth-01-boyhood.mp3" length="25055442" type="audio/mpeg"/>
+      <itunes:duration>00:26:06</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>第2集｜一個當了四十幾年的班長：從解嚴到第一次總統直選</title>
+      <description>你們班的班長，一學期選一次。可是台灣曾經有一群國會代表，一選就做了四十幾年。解嚴之後，報紙變厚了、政黨可以備案了，最大的那扇門卻還卡著。一九九〇年春天，一群大學生坐到廣場上；一九九六年，在對岸試射飛彈的緊張氣氛中，大家第一次自己投票選總統。這一集，翻頁人和六年級的小書籤，一起把課本翻過去的那一頁翻回來。
+
+對應課程：國小社會「臺灣的民主發展」（108 課綱 Cd-Ⅲ-1、Cd-Ⅲ-2）
+
+本節目從選題、寫稿到配音、音效，皆由 AI 製作（文稿經另一個 AI 交叉查核）；說書人翻頁人與小書籤都是 AI 配音的虛構角色。內容依據公開史料整理，如果聽到錯誤，歡迎告訴我們。
+
+主要參考資料：
+・中央社〈台灣人生活從黑白變彩色 一切從解嚴令開始〉https://www.cna.com.tw/news/aipl/201707145011.aspx
+・內政部〈政黨法制〉https://www.moi.gov.tw/cp.aspx?n=695
+・司法院 釋字第31號 https://cons.judicial.gov.tw/docdata.aspx?fid=100&amp;id=310212
+・司法院 釋字第261號 https://cons.judicial.gov.tw/docdata.aspx?fid=100&amp;id=310442
+・中央社〈李登輝總統宣告終止動員戡亂時期〉https://www.cna.com.tw/news/ahel/202304275005.aspx
+・立法院〈民主國會卅年特展〉https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=5255&amp;pid=226769
+・總統府〈修正中華民國憲法增修條文〉（1994）https://www.president.gov.tw/Page/294/40712
+・中央選舉委員會（1996 總統副總統選舉）https://web.cec.gov.tw/english/article/21785
+
+配音：ElevenLabs AI 語音；音效：ElevenLabs 生成。</description>
+      <guid isPermaLink="false">31514fc2-7054-4dbb-909a-7dd2b298d0e8</guid>
+      <pubDate>Thu, 05 Nov 2026 16:50:00 +0800</pubDate>
+      <enclosure url="https://woodenfish9527.github.io/history-podcast/audio/2026-11-05_first-vote.mp3" length="11054227" type="audio/mpeg"/>
+      <itunes:duration>00:11:31</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>第1集｜三十八年的緊急狀態：戒嚴</title>
+      <description>一九八七年七月十四日深夜，時鐘走過十二點，台灣持續了三十八年的戒嚴結束了。戒嚴是什麼？那時候的人怎麼過日子？為什麼翻譯一則《大力水手》漫畫，會讓作家柏楊失去自由九年多？這一集，翻頁人帶你把課本翻過去的那一頁翻回來。
+
+對應課程：國小社會「臺灣的民主發展」（108 課綱 Cd-Ⅲ-1）
+
+本節目從選題、寫稿到配音、音效，皆由 AI 製作（文稿經另一個 AI 交叉查核），內容依據公開史料整理。如果聽到錯誤，歡迎告訴我們。
+
+主要參考資料：
+・國家發展委員會檔案管理局 檔案支援教學網〈民主運動與憲政改革〉https://art.archives.gov.tw/tw/art/1491.html
+・國家發展委員會檔案管理局 檔案支援教學網〈戒嚴時期之相關管制辦法－郵件檢查〉https://art.archives.gov.tw/tw/art/1530-13399.html
+・國家發展委員會檔案管理局 檔案支援教學網〈電視臺的出現〉https://art.archives.gov.tw/tw/art/1130.html
+・國家人權博物館 國家人權記憶庫〈白色恐怖〉https://memory.nhrm.gov.tw/NormalNode/Detail/83?MenuNode=14
+・中央社〈解嚴30年 台灣從威權邁向自由民主〉https://www.cna.com.tw/news/aipl/201707140387.aspx
+・Taipei Times（柏楊事件）https://www.taipeitimes.com/News/feat/archives/2017/09/24/2003679025
+
+配音：ElevenLabs AI 語音；音效：ElevenLabs 生成。</description>
+      <guid isPermaLink="false">5a7c596f-a73f-4acf-8202-cd3e9eb8772f</guid>
+      <pubDate>Thu, 05 Nov 2026 14:30:00 +0800</pubDate>
+      <enclosure url="https://woodenfish9527.github.io/history-podcast/audio/2026-11-05_martial-law.mp3" length="8617525" type="audio/mpeg"/>
+      <itunes:duration>00:08:59</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
